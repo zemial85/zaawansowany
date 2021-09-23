@@ -1,0 +1,6 @@
+plik.py
+plik.txt.
+plik.exe
+plik.avi
+plik.jpg
+plik2.py
